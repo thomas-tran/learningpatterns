@@ -1,1 +1,1 @@
-#Design Patterns sample c#
+#Design Patterns Sample
